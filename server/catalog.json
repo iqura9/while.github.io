@@ -1,0 +1,91 @@
+{
+    "000001": {
+      "name": "Как стать лучшим в том, что ты делаешь",
+      "img": "img/150330734_images_16090613246.png",
+      "autor": "Игорь Манн",
+      "filter": "done2020"
+    },
+    "000002": {
+        "name": "The One Thing",
+        "img": "img/TheOneThing.jpg",
+        "autor": "Gary Keller",
+        "filter": "done2020"
+      },
+    "000004": {
+        "name": "7 Habits of Highly Effective People",
+        "img": "img/235991329_images_19294467301.jpg",
+        "autor": "Stephen R. Covey",
+        "filter": "done2020"
+    },
+    "000005": {
+        "name": "Продавец обуви. История компании Nike",
+        "img": "img/nike.jpg",
+        "autor": "Фил Найт",
+        "filter": "done2020"
+    },
+    "000006": {
+        "name": "How to Win Friends and Influence People in the Digital Age",
+        "img": "img/How_to_Win_Friends_and_Influence_People_in_the_Digital_Age_by_Dale_Carnegie_and_Associates.jpg",
+        "autor": "Dale Carnegie",
+        "filter": "done2020"
+    },
+    "000007": {
+        "name": "The Dip: A Little Book That Teaches You When to Quit",
+        "img": "img/The_Dip.jpg",
+        "autor": "Seth Godin",
+        "filter": "done2020"
+    },
+    "000008": {
+        "name": "Never Split The Difference",
+        "img": "img/never_split_the_defference.jpeg",
+        "autor": "Chriss Voss and Tahl Raz",
+        "filter": "done2020"
+    },
+    "000009": {
+        "name": "Магия утра",
+        "img": "img/Hel_Elrod__Magiya_utra._Kak_pervyj_chas_dnya_opredelyaet_vash_uspeh.jpeg",
+        "autor": "Хєл Элрод",
+        "filter": "done2020"
+    },
+    "000010": {
+        "name": "Самый богатый человек в Вавилоне",
+        "img": "img/QHDGfEYpb2g.jpg",
+        "autor": "Джорж Сэмюэль Клейсон",
+        "filter": "done2020"
+    },
+    "000011": {
+        "name": "Think and Grow Rich",
+        "img": "img/Napoleon_Hill_-_Think_and_Grow_Rich (1).jpg",
+        "autor": "Napoleon Hill",
+        "filter": "done2021"
+    },
+    "000012": {
+        "name": "Вопреки: Путь к победе",
+        "img": "img/Zeus.jpg",
+        "autor": "Даниил Тесленко",
+        "filter": "reading"
+    },
+  "000013": {
+    "name": "The Magic of Thinking Big",
+    "img": "img/TheMagicOfThinkingBig.jpg",
+    "autor": "David J. Schwartz",
+    "filter": "done2021",
+    "time": "17.01.2021",
+     "pages":  "362"
+  },
+    "000014": {
+        "name": "Илон Маск. Tesla, SpaceX и дорога в будущее",
+        "img": "img/Elon.jpg",
+        "autor": "Эшли Вэнс",
+        "filter": "reading"
+    },
+    "000015": {
+        "name": "The Fine Art of Small Talk",
+        "img": "img/TheFineArt.jpg",
+        "autor": "Debra Fine",
+        "filter": "done2021",
+        "time" : "12.01.2021"
+    }
+  
+  }
+  
